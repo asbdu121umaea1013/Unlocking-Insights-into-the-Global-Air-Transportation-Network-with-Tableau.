@@ -11,5 +11,4 @@ story public link:https://public.tableau.com/views/StoryAirlines/Story1?:languag
 
 Video demonstration link:https://drive.google.com/file/d/1UoOrjGXDTmEbRLuoq4ewprQyjOLJwR6_/view?usp=drivesdk
 
-dataset link:   https://drive.google.com/drive/folders/1RJnbcGxvIVulM3fkZH1Wz3_IbLDP2RjY?u
-sp=share_link
+dataset link:   https://drive.google.com/file/d/1UoOrjGXDTmEbRLuoq4ewprQyjOLJwR6_/view?usp=sharing
